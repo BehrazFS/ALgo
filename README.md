@@ -62,15 +62,3 @@ This repository contains the implementation of a **three-phase individual projec
 
 🔧 **Technique**: **Weighted Interval Scheduling / Greedy Optimization**
 
-
-## 🛠️ Technologies Used
-
-* Language: `Python` / `C++` / `Java` (based on your implementation)
-* Data Structures: Trees, Hash Tables, Priority Queues
-* Algorithms: MST, DP, Greedy, Scheduling
-
-
-
-
-
-final project of Design and Analysis of Algorithms cource
